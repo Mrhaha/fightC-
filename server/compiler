@@ -1,0 +1,3 @@
+#!/bin/bash
+g++ ./main.cpp ../CppProto/client.pb.cc -o server -lprotobuf
+
